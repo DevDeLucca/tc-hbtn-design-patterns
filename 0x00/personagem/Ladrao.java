@@ -3,7 +3,7 @@ package personagem;
 public class Ladrao extends Personagem {
 
     @Override
-    double getDanoAtaque() {
+    public double getDanoAtaque() {
         return (getForca() * 0.5) +
                 (getDestreza() * 0.35) +
                 (getVigor() * 0.1) +
