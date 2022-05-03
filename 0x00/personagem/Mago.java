@@ -1,6 +1,4 @@
-package personagem;
-
-public class Mago extends Personagem {
+public class Mago extends Personagem{
 
     @Override
     public double getDanoAtaque() {
@@ -8,14 +6,14 @@ public class Mago extends Personagem {
                 (getForca() * 0.05) +
                 (getDestreza() * 0.05) +
                 (getVigor() * 0.1);
-
     }
 
     public Mago(String nome, int inteligencia, int forca, int vigor, int resistencia, int destreza) {
         super(nome, TipoPersonagem.MAGO, inteligencia, forca, vigor, resistencia, destreza);
 
-        if (inteligencia < forca || inteligencia < destreza) {
-            throw new RuntimeException("Atributos invalidos para MAGO.");
+        if(inteligencia < forca || inteligencia < destreza){
+            throw new RuntimeException("Atributos invalidos para MAGO");
         }
     }
+
 }

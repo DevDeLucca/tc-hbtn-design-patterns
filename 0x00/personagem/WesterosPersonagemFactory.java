@@ -1,6 +1,5 @@
-package personagem;
-
 public class WesterosPersonagemFactory extends PersonagemFactory{
+
     @Override
     public Personagem createPersonagem(TipoPersonagem tipo, String nome) {
         if(tipo == TipoPersonagem.MAGO){
@@ -14,3 +13,4 @@ public class WesterosPersonagemFactory extends PersonagemFactory{
         }
     }
 }
+

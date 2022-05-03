@@ -1,5 +1,3 @@
-package personagem;
-
 public class TerraMediaPersonagemFactory extends PersonagemFactory{
 
     @Override
@@ -15,3 +13,4 @@ public class TerraMediaPersonagemFactory extends PersonagemFactory{
         }
     }
 }
+
