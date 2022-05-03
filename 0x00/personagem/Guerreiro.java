@@ -3,7 +3,7 @@ package personagem;
 public class Guerreiro extends Personagem {
 
     @Override
-    double getDanoAtaque() {
+    public double getDanoAtaque() {
         return (getForca() * 0.8) +
                 (getVigor() * 0.05) +
                 (getDestreza() * 0.35) +
