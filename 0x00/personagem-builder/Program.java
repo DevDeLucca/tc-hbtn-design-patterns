@@ -1,5 +1,8 @@
+import java.util.Locale;
+
 public class Program {
     public static void main(String[] args) {
+        Locale.setDefault(new Locale("pt", "BR"));
         Director director = new Director();
 
         GuerreiroBuilder guerreiroBuilder = new GuerreiroBuilder();
@@ -14,21 +17,21 @@ public class Program {
         try {
             Mago mago = magoBuilder.build();
             System.out.println(mago);
-        } catch(Exception ex) {
+        } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
 
         try {
             Ladrao ladrao = ladraoBuilder.build();
             System.out.println(ladrao);
-        } catch(Exception ex) {
+        } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
 
         try {
             Guerreiro guerreiro = guerreiroBuilder.build();
             System.out.println(guerreiro);
-        } catch(Exception ex) {
+        } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
     }
