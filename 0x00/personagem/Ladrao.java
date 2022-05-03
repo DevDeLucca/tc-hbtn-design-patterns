@@ -1,6 +1,7 @@
 package personagem;
 
 public class Ladrao extends Personagem {
+
     @Override
     double getDanoAtaque() {
         return (getForca() * 0.5) +
@@ -10,7 +11,7 @@ public class Ladrao extends Personagem {
     }
 
     public Ladrao(String nome, int inteligencia, int forca, int vigor, int resistencia, int destreza) {
-        super(nome, TipoPersonagem.MAGO, inteligencia, forca, vigor, resistencia, destreza);
+        super(nome, TipoPersonagem.Ladrao, inteligencia, forca, vigor, resistencia, destreza);
 
         if (forca < destreza  && inteligencia < destreza) {
             throw new RuntimeException("Atributos invalidos para LADRAO.");

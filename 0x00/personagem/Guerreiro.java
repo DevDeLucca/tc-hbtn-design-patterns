@@ -12,7 +12,7 @@ public class Guerreiro extends Personagem {
     }
 
     public Guerreiro(String nome, int inteligencia, int forca, int vigor, int resistencia, int destreza) {
-        super(nome, TipoPersonagem.MAGO, inteligencia, forca, vigor, resistencia, destreza);
+        super(nome, TipoPersonagem.Guerreiro, inteligencia, forca, vigor, resistencia, destreza);
 
         if (forca <inteligencia && forca < destreza) {
             throw new RuntimeException("Atributos invalidos para Guerreiro.");
