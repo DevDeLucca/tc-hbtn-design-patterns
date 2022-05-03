@@ -2,6 +2,7 @@ public class MagoBuilder implements Builder{
 
 
     private String nome;
+    private TipoPersonagem tipo;
     private int inteligencia, forca, vigor, resistencia, destreza;
 
     public Mago build() {
