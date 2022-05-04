@@ -1,3 +1,5 @@
 public enum TipoLanche {
-    HAMBURGUER, CHEESEBURGUER
+
+    HAMBURGUER,
+    CHEESEBURGUER;
 }

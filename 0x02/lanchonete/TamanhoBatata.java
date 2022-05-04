@@ -1,3 +1,6 @@
 public enum TamanhoBatata {
-    PEQUENA, MEDIA,  GRANDE
+
+    PEQUENA,
+    MEDIA,
+    GRANDE;
 }
