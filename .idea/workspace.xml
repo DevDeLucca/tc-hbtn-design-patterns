@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="098d3076-8d52-4e06-980e-6770b682980d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x02/impressao/Impressao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02/impressao/ImpressaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02/impressao/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02/impressao/TamanhoImpressao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/MediaPlayerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/TipoMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/midia_player/VideoMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/naves/ArmaduraDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/naves/CanhaoExtraDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/naves/LaserDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/naves/NanoBotsDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/naves/NaveEspacial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/naves/NaveEspacialDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/naves/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
