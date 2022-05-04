@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="098d3076-8d52-4e06-980e-6770b682980d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/0x02/lanchonete/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/lanchonete/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/lanchonete/TamanhoBatata.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/lanchonete/TamanhoBatata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/lanchonete/TipoBebida.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoBebida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/lanchonete/TipoBrinde.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoBrinde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/lanchonete/TipoItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/lanchonete/TipoLanche.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoLanche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/impressao/Impressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/impressao/ImpressaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/impressao/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/impressao/TamanhoImpressao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
