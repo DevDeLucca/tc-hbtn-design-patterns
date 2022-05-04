@@ -6,7 +6,7 @@ public class Program {
         Locale.setDefault(new Locale("pt", "BR"));
 
         PersonagemFactory terraMediaPersonagemFactory = new WesterosPersonagemFactory();
-        PersonagemFactory westerosPersonagemFactory = new TerraMediaPersonagemFactory();
+        PersonagemFactory westerosPersonagemFactory = new TerraMediaPersonagemFactory1();
 
         try {
             Personagem magoGandalf = terraMediaPersonagemFactory.createPersonagem(TipoPersonagem.MAGO, "Gandalf");

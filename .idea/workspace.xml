@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="098d3076-8d52-4e06-980e-6770b682980d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x01/cafeteria/Bebida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01/cafeteria/BebidaCafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01/cafeteria/BebidaComAcucar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01/cafeteria/BebidaComLeite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01/cafeteria/BebidaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01/cafeteria/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/ItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/PedidoAbstractBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/PedidoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/TamanhoBatata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoBebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoBrinde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02/lanchonete/TipoLanche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00/personagem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x00/personagem/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00/personagem/TerraMediaPersonagemFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x00/personagem/TerraMediaPersonagemFactory1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +56,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucases\Documents\tc-hbtn-design-patterns" />
+      <recent name="C:\Users\lucases\Documents\tc-hbtn-design-patterns\teste\src\main\java" />
+      <recent name="C:\Users\lucases\Documents\tc-hbtn-design-patterns\0x02\lanchonete" />
       <recent name="C:\Users\lucases\Documents\tc-hbtn-design-patterns\0x01\salario" />
     </key>
   </component>
