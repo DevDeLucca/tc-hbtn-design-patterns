@@ -1,13 +1,12 @@
-public class Bebida {
+import java.util.List;
 
-    public abstract class Bebida {
+public abstract class Bebida {
 
-        public abstract list<String> obterIngredientes();
+    public abstract List<String> obterIngredientes();
 
-        public abstract double obterPreco();
+    public abstract double obterPreco();
 
-        public String toString () {
-            return String.format("Preco: %.2f - Ingredientes: %s", obterPreco(), obterIngredientes());
-        }
+    public String toString() {
+        return String.format("Preco: %.2f - Ingredientes: %s", obterPreco(), obterIngredientes());
     }
 }
